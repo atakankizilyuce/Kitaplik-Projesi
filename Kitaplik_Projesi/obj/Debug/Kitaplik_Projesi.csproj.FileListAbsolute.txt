@@ -1,0 +1,11 @@
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\bin\Debug\Kitaplik.mdb
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe.config
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.exe
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\bin\Debug\Kitaplik_Projesi.pdb
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.AssemblyReference.cache
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Form1.resources
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.Properties.Resources.resources
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.GenerateResource.cache
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.exe
+C:\Users\Atakan\source\repos\Kitaplik_Projesi\obj\Debug\Kitaplik_Projesi.pdb
